@@ -1,4 +1,4 @@
-package com.example.demo.solved.array;
+package com.example.demo.solved.arraysandhashing.array;
 
 public class PlusOne {
 //    hint: loop reverse, if digits[i] < 0, then digits[i]++ and return digits (ex: 123 -> 124)

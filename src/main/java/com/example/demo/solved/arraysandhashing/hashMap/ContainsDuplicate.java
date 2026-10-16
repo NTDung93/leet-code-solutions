@@ -1,4 +1,4 @@
-package solved.hashMap;
+package com.example.demo.solved.arraysandhashing.hashMap;
 
 import java.util.Arrays;
 import java.util.HashMap;
