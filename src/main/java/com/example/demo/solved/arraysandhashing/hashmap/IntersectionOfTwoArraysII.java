@@ -1,7 +1,6 @@
-package com.example.demo.solved.arraysandhashing.hashMap;
+package com.example.demo.solved.arraysandhashing.hashmap;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 
 public class IntersectionOfTwoArraysII {

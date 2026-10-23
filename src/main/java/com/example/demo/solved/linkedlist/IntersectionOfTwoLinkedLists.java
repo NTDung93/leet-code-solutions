@@ -1,4 +1,4 @@
-package com.example.demo.solved.linkedList;
+package com.example.demo.solved.linkedlist;
 
 public class IntersectionOfTwoLinkedLists {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {

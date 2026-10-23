@@ -1,4 +1,4 @@
-package com.example.demo.solved.arraysandhashing.hashSet;
+package com.example.demo.solved.arraysandhashing.hashset;
 
 import java.util.HashSet;
 

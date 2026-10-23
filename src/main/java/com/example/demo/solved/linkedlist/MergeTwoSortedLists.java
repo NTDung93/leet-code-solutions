@@ -1,4 +1,4 @@
-package com.example.demo.solved.linkedList;
+package com.example.demo.solved.linkedlist;
 
 public class MergeTwoSortedLists {
     public static void main(String[] args) {

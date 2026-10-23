@@ -1,4 +1,4 @@
-package com.example.demo.solved.twoPointers;
+package com.example.demo.solved.twopointers;
 
 import java.util.Scanner;
 

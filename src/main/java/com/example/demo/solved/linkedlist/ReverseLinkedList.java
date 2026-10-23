@@ -1,4 +1,4 @@
-package com.example.demo.solved.linkedList;
+package com.example.demo.solved.linkedlist;
 
 public class ReverseLinkedList {
     public static void main(String[] args) {

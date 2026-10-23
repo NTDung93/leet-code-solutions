@@ -1,7 +1,6 @@
-package com.example.demo.solved.arraysandhashing.hashMap;
+package com.example.demo.solved.arraysandhashing.hashmap;
 
 import java.util.HashMap;
-import java.util.Map;
 
 public class TwoSum {
 //    hint: create a hash map, loop through given solved.array, cal the sub by target - nums[i]
